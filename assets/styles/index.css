@@ -60,6 +60,9 @@ section .photo {
     background-color: black;
     height: 640px;
     margin: 0px 1% 2% 1%;
+    -webkit-transition: background-image 0.75s ease;
+    -moz-transition: background-image 0.75s ease;
+    transition: background-image 0.75s ease;
 }
 
 .outline {
