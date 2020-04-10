@@ -53,6 +53,7 @@ nav span {
 body > article {
     width: 90%;
     margin: 2em 5% 0px 5%;
+    color: white;
 }
 
 section .photo {
